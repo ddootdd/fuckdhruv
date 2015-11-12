@@ -10,7 +10,7 @@ def fuckDhruv():
   name = str(raw_input('What is your name?'))
 
   if name == 'Dhruv' or name == 'dhruv':
-    for i in range(1,25):
+    for i in range(1,15):
       print "fuck Dhruv, he is a " + adjectives[int(random.uniform(0, len(adjectives)))] + " " + nouns[int(random.uniform(0, len(nouns)))]
   else:
     print "Hi " + name + "! You look wonderful today."
