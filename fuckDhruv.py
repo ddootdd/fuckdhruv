@@ -2,8 +2,8 @@ import random
 import math
 
 
-#TODO: Grammar lolz
-#meme generator
+# ToDo: Grammar lolz
+# meme generator
 def fuckDhruv():
   adjectives = ["fucking", "goddamn", "lameass", "motherfucking", "uncoordinated", "weak", "smelly", "fecal", "ass-licking", "slimy", "useless", "contaminated", "irrelevant", "biohazardous", "cancerous", "herpetic", "spineless", "fascist", "diseased", "infected", "contagious", "disease-causing", "donkey-fucking"]
   nouns = ["fuccboi", "asshat", "shitstick", "asshole", "chode", "loser", "lameboi", "chodesicle", "bloodclot", "feces", "chode-muncher", "chode-rooster", "fuckbucket", "dickshaft", "cum guzzler", "ball fondler", "piss drinker", "herpes", "ostrich", "Republican", "bacteria", "donkey-fucker"]
@@ -15,4 +15,3 @@ def fuckDhruv():
   else:
     print "Hi " + name + "! You look wonderful today."
 fuckDhruv()
-
